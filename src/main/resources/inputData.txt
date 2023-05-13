@@ -1,0 +1,3 @@
+Marvels,2020-10-31,45,Action
+Deadpool,2022-11-20,60,Action
+Spiderman,2012-02-20,90,Action

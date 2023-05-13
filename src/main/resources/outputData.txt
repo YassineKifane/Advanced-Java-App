@@ -1,0 +1,3 @@
+Emission(id=1, titre=Marvels, dateEmission=Sat Oct 31 00:00:00 WEST 2020, dureeEmission=45, genre=Action, producer=null)
+Emission(id=2, titre=Deadpool, dateEmission=Sun Nov 20 00:00:00 WEST 2022, dureeEmission=60, genre=Action, producer=null)
+Emission(id=3, titre=Spiderman, dateEmission=Mon Feb 20 00:00:00 WET 2012, dureeEmission=90, genre=Action, producer=null)
